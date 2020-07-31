@@ -2,15 +2,15 @@
 Python tutorials and Notes
 
 - tutorial1.py
-    Comments
+  - Comments
 - tutorial2.py
-    String
-    String access
-    Type casting
-    String Slicing
-    F-Strings
+  - String
+  - String access
+  - Type casting
+  - String Slicing
+  - F-Strings
 - tutorial3.py
-    Dictionary
+  - Dictionary
 - tutorial4.py
     Faulty Calculator
 - tutorial5.py
