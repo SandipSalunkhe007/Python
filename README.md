@@ -120,9 +120,11 @@ Python tutorials and Notes
   - Private
   - Protected
 - tutorial39.py
-
+  - Polymorphism
+  - super() method and Method Overriding in class
 - tutorial40.py
-
+  - Diamond shape problem
 - tutorial41.py
-
+  - Operator overloading
+  - Dunder/Magic method
 - tutorial42.py
