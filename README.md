@@ -129,4 +129,9 @@ Python tutorials and Notes
   - Dunder/Magic method
 - tutorial42.py
   - Abstract Base Class(ABC)
- 
+- tutorial43.py
+  - Setter and Property Decorators
+- tutorial44.py
+  - Object Introspection
+- tutorial45.py
+  - Python Mini Project _ Library Management System
