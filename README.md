@@ -135,3 +135,17 @@ Python tutorials and Notes
   - Object Introspection
 - tutorial45.py
   - Python Mini Project _ Library Management System
+- tutorial46.py
+  - Generator
+- tutorial47.py
+  - Comprehension
+  - List Comprehensions
+  - Dictionary Comprehensions
+  - Set Comprehensions
+  - Generator Comprehensions
+- tutorial48.py
+  - Using Else with For Loop
+- tutorial49.py
+  - Function caching
+- tutorial50.py
+  - 
